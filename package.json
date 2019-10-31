@@ -24,7 +24,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.0",
     "mongodb": "^3.2.5",
-    "mongoose": "^5.5.10"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
